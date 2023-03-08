@@ -1,0 +1,22 @@
+.cabecalho {
+    display: flex;
+    height: 60vh;
+}
+
+.cabecalhoImagem, img { 
+    width: 100%;
+}
+
+.cabecalhoTexto {
+    display: flex;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    color: #F5F5F5;
+}
+
+  
+  
+  
+  
+  
